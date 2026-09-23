@@ -1,0 +1,6 @@
+{
+  "name": "ClinScreen - Evidence-Based Clinical Self-Assessment Platform",
+  "description": "Literature-backed health self-assessment questionnaires adapted from validated peer-reviewed scales (PSS-10, CBI, GAD-7, ISI, FINDRISC) with standardized scoring, clinical interpretation brackets, and WCAG 2.1 accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
